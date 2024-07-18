@@ -5,6 +5,10 @@ body {
 
 h1 {
   background-color: slateblue;
+  color: #d6b4fc;
+  font-family: "Georgia", serif;
+  font-style: italic;
+
 }
 
 header {
