@@ -6,7 +6,9 @@ body {
 h1 {
   background-color: slateBlue;
 }
-
+header {
+background-color: white;
+}
 div {
   background-color: orange;
   color: white;
